@@ -1,0 +1,15 @@
+{
+    "WEBSITE_AUTH_TOKEN_STORE": "True",
+    "WEBSITE_SLOT_NAME": "[p",
+    "FUNCTIONS_EXTENSION_VERSION": "~1",
+    "ScmType": "LocalGit",
+    "REMOTEDEBUGGINGVERSION": "11.0.611103.400",
+    "WEBSITE_AUTH_UNAUTHENTICATED_ACTION": "AllowAnonymous",
+    "WEBSITE_AUTH_AUTO_AAD": "False",
+    "WEBSITE_AUTH_ENABLED": "False",
+    "WEBSITE_SITE_NAME": "value",
+    "FUNCTION_APP_EDIT_MODE": "readwrite",
+    "WEBSITE_AUTH_LOGOUT_PATH": "/.auth/logout",
+    "WEBSITE_AUTH_DEFAULT_PROVIDER": "AzureActiveDirectory",
+    "WEB-MY-CUSTOM-SETTING":"great-value"
+}                  
